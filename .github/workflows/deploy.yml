@@ -1,4 +1,4 @@
-name: Azure VM Deployment and Node.js App Setup
+name: Azure VM Deployment and .Net App Setup
  
 on:
   workflow_dispatch:
